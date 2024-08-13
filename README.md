@@ -9,9 +9,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/Gudguykartik/portfolio/blob/main/Images/post-a-job-on-twitter-verified-organizations-64b8531a90397-sej.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/Gudguykartik/portfolio/blob/main/Images/post-a-job-on-twitter-verified-organizations-64b8531a90397-sej.jpg"> **[Tweets Classification](#https://somesite.com/)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+Developed a machine learning model to classify disaster-related tweets. Performed exploratory data analysis, implemented text preprocessing, and utilized GloVe embeddings. Built and trained an LSTM neural network using Keras. The project demonstrates proficiency in data analysis, NLP techniques, and deep learning, showcasing a complete machine learning pipeline from exploration to model deployment.
 
 #
 
